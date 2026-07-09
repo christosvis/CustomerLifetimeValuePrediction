@@ -6,7 +6,7 @@ library(ggplot2)
 
 #### 1. Load Data ####
 df <- read_excel(
-  path="/Users/christos/Downloads/Lifetime Value Prediction/Online Retail.xlsx", 
+  path="Online Retail.xlsx", 
   sheet="Online Retail"
 )
 
